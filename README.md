@@ -1,6 +1,11 @@
 # MT-Lab1
 Multimedijos sistemos. Laboratorinis darbas Nr.1 ir Nr.2
 
+
+# Naršyklių palaikymas
+Brave, Chrome, Chromium, Firefox
+
+
 Šio laboratorinio darbo tikslas - susipažinti su GitHub aplinka ir sukurti interneto naršyklėje veikiantį tiesioginių vaizdo transliacijų grotuvą, suderinamą su HTML5 ir HLS technologija.
 
 Vaizdo transliacijų grotuvui sukurti galima rasti nemažai atviro kodo pavyzdžių. Paradžioje galite išbandyti video.js grotuvą: https://github.com/videojs/video.js arba šį tiesioginėms transliacijoms skirtą pavyzdį: https://jsbin.com/gejugat/edit?html,output
